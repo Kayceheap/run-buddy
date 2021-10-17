@@ -154,6 +154,7 @@ section {
 
 .steps {
   text-align: center;
+  background: #fce138
 }
 
 .steps div {
@@ -179,5 +180,5 @@ section {
 
 .steps span {
   font-size: 38px;
-  
+
 }
